@@ -1,0 +1,1 @@
+Churn prediction is the process of analyzing customer behavior, history, and characteristics to estimate the probability that a customer will leave, cancel, stop buying, or become inactive within a future time period.
