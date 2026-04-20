@@ -13,13 +13,13 @@ MultipleLines: whether the customer has multiple phone lines (Yes , No , No phon
 InternetService: type of internet service used by the customer (DSL , Fibre optique , No)
 OnlineSecurity: whether the customer has online security service (Yes , No , No phone service)
 OnlineBackup: whether the customer has online backup service (Yes , No , No phone service)
-DeviceProtection: whether the customer has device protection
-TechSupport: whether the customer has tech support service
-StreamingTV: whether the customer uses streaming TV service
-StreamingMovies: whether the customer uses streaming movies service
-Contract: type of customer contract
-PaperlessBilling: whether the customer uses paperless billing
-PaymentMethod: customer payment method
+DeviceProtection: whether the customer has device protection (Yes , No , No phone service)
+TechSupport: whether the customer has tech support service (Yes , No , No phone service)
+StreamingTV: whether the customer uses streaming TV service (Yes , No , No phone service)
+StreamingMovies: whether the customer uses streaming movies service (Yes , No , No phone service)
+Contract: type of customer contract (Month-to-month , one year , two year)
+PaperlessBilling: whether the customer uses paperless billing (Yes , No)
+PaymentMethod: customer payment method 
 MonthlyCharges: amount charged to the customer each month
 TotalCharges: total amount charged to the customer overall
-Churn: whether the customer left the company or stayed
+Churn: whether the customer left the company or stayed (Yes , No)
